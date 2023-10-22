@@ -2,6 +2,11 @@
     font-family: Verdana, Arial, sans-serif;
 }
 
+img {
+    margin: 40px auto;
+    display: block;
+}
+
 h1 {
     margin: auto;
 }
