@@ -2,6 +2,10 @@
     font-family: Verdana, Arial, sans-serif;
 }
 
+h1 {
+    margin: auto;
+}
+
 .top-heading {
     font-size: 48px;
     text-align: center;
