@@ -2,6 +2,11 @@
     font-family: Verdana, Arial, sans-serif;
 }
 
+body {
+    text-align: left;
+    display: block;
+}
+
 img {
     margin: 40px auto;
     display: block;
@@ -14,7 +19,6 @@ h1 {
 
 .top-heading {
     font-size: 48px;
-    text-align: center;
     background-color: seashell;
 }
 
