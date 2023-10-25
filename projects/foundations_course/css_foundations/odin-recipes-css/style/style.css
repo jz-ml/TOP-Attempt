@@ -19,6 +19,7 @@ h1 {
 }
 
 .top-heading {
+    text-align: center;
     font-size: 48px;
     background-color: seashell;
 }
